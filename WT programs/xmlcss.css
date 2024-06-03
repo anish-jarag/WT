@@ -1,0 +1,25 @@
+students{
+    margin: 200pt;
+    font-style: italic;
+    padding: 10px;
+    background-color: bisque;
+    display: block;
+}
+student{
+    font: bold; 
+    margin-bottom: 20px;
+    border-radius: 5px;
+    display: block;
+    background-color: rgb(168, 140, 140);
+}
+name{
+    font-style: italic;
+    padding: 10px;
+    display: block;
+}
+email,class,div{
+    padding: 10px;
+    font-style: italic;
+    display: block;
+
+}
