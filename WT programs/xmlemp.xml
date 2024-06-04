@@ -1,37 +1,38 @@
-<?xml verion="1.0">
+<?xml version="1.0"?>
 <employees>
 <employee>
-<Name> Aditya Patil</name>
-<Position> Hiring Manager </position>
+<name> Aditya Patil</name>
+<position> Hiring Manager </position>
 <Department>Marketing</Department>
 <salary> 45000 </salary>
 </employee>
 
 <employee>
-<Name> Aditya Patil</name>
-<Position> Hiring Manager </position>
-<Department>Marketing</Department>
+<name> Aditya Patil</name>
+<position> Hiring Manager </position>
+<department>Marketing</department>
 <salary> 45000 </salary>
 </employee>
 
 <employee>
-<Name> Aditya Patil</name>
-<Position> Hiring Manager </position>
-<Department> Marketing </Department>
+<name> Aditya Patil</name>
+<position> Hiring Manager </position>
+<department> Marketing </department>
 <salary> 45000 </salary>
 </employee>
 
 <employee>
-<Name> Aditya Patil</name>
-<Position> Hiring Manager </position>
-<Department>Marketing</Department>
+<name> Aditya Patil</name>
+<position> Hiring Manager </position>
+<department>Marketing</department>
 <salary> 45000 </salary>
 </employee>
 
 <employee>
-<Name> Aditya Patil</name>
-<Position> Hiring Manager </position>
-<Department>Marketing</Department>
+<name> Aditya Patil</name>
+<position> Hiring Manager </position>
+<department>Marketing</department>
 <salary> 45000 </salary>
 </employee>
+
 </employees>
